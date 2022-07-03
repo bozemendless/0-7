@@ -14,4 +14,4 @@ if TorF == "T" or TorF == "t":
 TorF = input(c_group + truefalse)
 if TorF == "T" or TorF == "t":
     num += 4
-print(f"你猜ㄉ94{num:3.0f}")
+print(f"你猜的就是{num:3.0f}")
